@@ -1,0 +1,15 @@
+{
+    "name": "space-invaders-movement",
+    "version": "0.0.1",
+    "description": "Space Invaders formation movement for MakeCode Arcade",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
